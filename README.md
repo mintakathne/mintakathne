@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mintakathne
+- 👋 Hi, I’m @mintakathne but you can call me just esma.
 - 👀 I’m interested in coding,open to improving myself and i love reading(trully)
 - 🌱 I’m currently learning c#,flutter,mysql,html
 - 💞️ I’m looking to collaborate on someone who can teach me what they know and of course this information flow will be mutual i am open to teach what i know and i am open the discuss.
